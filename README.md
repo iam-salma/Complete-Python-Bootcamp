@@ -54,4 +54,4 @@ A hands-on, module-wise Python bootcamp covering everything from basic syntax to
      python foldername/filename
      ```
 
-ALL THE VERY BEST! ENJOY 😊🎉
+📦 Start your Python journey today — and don’t forget to ⭐ the repo if you find it useful! 🧠💻
